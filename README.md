@@ -1,15 +1,17 @@
 <body>
-
 <h1>its me, megajump978!</h1>
 	<p>
 	Pronouns: she/her	<br>
-	im curently coding with:	<br>
+	</p>
+	<details>
+	<summary>im curently coding with:</summary>
 	<ul>
 		<li>lua</li>
 		<ul>
 			<li>for figura</li>
 		</ul>
 	</ul>
+	</details>
 	<details>
 		<summary>i have used but now forgoten</summary>
 		<ul>
@@ -17,12 +19,8 @@
 			<li>python</li>
 		</ul>
 	</details>
-	
-	
-	- 🌱 I’m currently learning ...
-	- 📫 How to reach me ...
-
- also this is a wip
+	<p>
+	also this is a wip
 	</p>
 </body>
 
